@@ -58,6 +58,9 @@ public class SinglyLinkedList {
         }
 
     }
+    public void addNodeAfterGivenData(int data, int givenData){
+        //complete this method
+    }
     //traversing each node once
     public void traverse(){
         Node temp = head;
